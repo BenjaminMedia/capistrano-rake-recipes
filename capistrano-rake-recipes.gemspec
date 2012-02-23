@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Capistrano::Rake::Recipes::VERSION
   s.authors     = ["Emil Kampp"]
   s.email       = ["emil@kampp.me"]
-  s.homepage    = "emil.kampp.me"
+  s.homepage    = "http://emil.kampp.me"
   s.summary     = %q{This allows to run rake tasks on the remote servers}
   s.description = %q{This allows to run rake tasks on the remote servers}
 
